@@ -8,8 +8,8 @@ public class Galleta {
     }
 
     public String getSabor() {
-        return sabor;
-    }
+System.out.println(sabor);
+        return sabor;    }
 
     public void setSabor(String sabor) {
         this.sabor = sabor;
